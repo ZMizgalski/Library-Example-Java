@@ -103,7 +103,7 @@ public class WebController {
         tokenRepository.save(passwordToken);
 
         MailRequest mail = new MailRequest();
-        mail.setFrom("librarianpanther@gmail.com");
+        mail.setFrom("info@pepisandbox.com");
         mail.setTo(userData.getEmail());
         mail.setSubject("Password reset request");
 
