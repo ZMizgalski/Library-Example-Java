@@ -1,5 +1,5 @@
-# Shop-Backend-Spring-Boot-Java
-> Basic shop backend made with Java 14 and Spring Boot.
+# Library-Spring-Boot-Java
+> Basic library backend made with Java 14 and Spring Boot.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -13,7 +13,7 @@
 * [License](#license)
 
 ## General Information
-- This project is a modified version of library back-end and was made to get my internship in [Andea](https://www.andea.com/). My task was to create a library orders and readers. I upgraded it a little bit because I added an admin panel when you can add your content dynamically.
+- This project was made to get my internship in [Andea](https://www.andea.com/). My task was to create a library orders and readers. I upgraded it a little bit because I added an admin panel when you can add your content dynamically.
 
 ## Technologies Used
 - JWT tokens
@@ -40,7 +40,7 @@ List the ready features here:
 
 ## Usage
 1. Create a folder named you like.
-2. Inside your folder, open console and paste: `git clone https://github.com/ZMizgalski/Shop-Backend-Spring-Boot-Java.git`
+2. Inside your folder, open console and paste: `git clone https://github.com/ZMizgalski/Library-Spring-Boot-Java.git`
 3. Then you are ready to go just open it in any Editor. (I prefer Intellij Idea Community) [Download here](https://www.jetbrains.com/idea/download/#section=windows)
 
 ## Project Status
@@ -55,4 +55,4 @@ Project is:  _complete_ .
 Created by [@zmizgalski](https://zmizgalski.github.io/) - feel free to contact me!
 
 ## License
-This project is open source and available under the [... License](https://github.com/ZMizgalski/Shop-Backend-Spring-Boot-Java/blob/master/LICENSE).
+This project is open source and available under the [... License](https://github.com/ZMizgalski/Library-Spring-Boot-Java/blob/master/LICENSE).
